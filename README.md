@@ -1,3 +1,37 @@
+# React-Redux-TypeScript App
+
+Just an app to understand the use of react, redux and typescript together.
+
+# Built With
+
+  - [React](https://it.reactjs.org/)
+  - [Redux](https://redux.js.org/)
+  - [TypeScript](https://www.typescriptlang.org/)
+
+# How to use
+ 
+To use the app you need to have
+
+- [Node](https://nodejs.org/it/download/)
+
+1. Clone the repo and cd to its root directory
+   ```sh
+   git clone https://github.com/francescoparra/react-redux-ts
+
+   cd react-redux-ts
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+   
+3. Run the App
+   ```sh
+   npm start
+   ```
+ 
+# React Standard Readme
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
