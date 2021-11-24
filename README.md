@@ -1,6 +1,6 @@
 # React-Redux-TypeScript App
 
-Just an app to understand the use of react, redux and typescript together.
+Just an app to understand the use of react, redux and typescript working together.
 
 # Built With
 
